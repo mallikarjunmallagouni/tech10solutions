@@ -1,0 +1,19 @@
+/* footer */
+
+.footer1 {
+    width: 100%;
+    background-color: #263238;
+    padding: 10px 0px 10px 0px;
+    margin: auto;
+  
+    }
+    footer p { 
+      font-size:13px; 
+      color:#CCC; 
+    }
+
+    @media screen and (max-width:959px) and (min-width:250px) {
+        .footer1{
+          display: none;
+        }
+        }

@@ -1,0 +1,51 @@
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.heading p{
+    font-size: 18px;
+}
+.banner{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    border: none;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.card span{
+    font-size: 60px;
+    color: gray;
+    padding-top: 7px;
+}
+.image{
+    height: 79px;
+    width: 84px;
+    border: 3px solid;
+    border-radius: 41px;
+    color: gray;
+}
+.card h3{
+    font-size: 20px;
+    padding-top: 10px;
+    margin: 0;
+    line-height: 36px;
+    font-weight: 500;
+    color: #5f68a0;
+}
+.card h4{
+    margin: 0;
+    line-height: 34px;
+    font-size: 18px;
+    font-weight: 500;
+}
+h2{
+    font-size: 1.8rem;
+}
+
+

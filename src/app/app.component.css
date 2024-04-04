@@ -1,0 +1,12 @@
+.nav-logo{
+    line-height: 0px;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-menu p{
+    margin: 0px;
+}

@@ -1,0 +1,52 @@
+.description{
+    padding-top: 40px;
+}
+.head{
+    background-image: linear-gradient(12deg,#47ca4d,#0d9bf0);
+}
+.get-start{
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    color: #fff;
+}
+.get-start button{
+    background-color: yellow;
+    border: none;
+    border-radius: 4px;
+}
+.contact-info{
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+.location{
+    display: flex;
+}
+.location p{
+    padding-left: 20px;
+}
+.contact{
+    display: flex;
+}
+.contact p{
+    padding-left: 20px;
+    color: #225fb0;
+}
+.email{
+    display: flex;
+}
+.email p{
+    padding-left: 20px;
+    color: #225fb0;
+    margin-bottom: 30px;
+}
+.email a{
+    text-decoration: none;
+}
+span{
+    color: gray;
+}
+h4{
+    font-size: 20px;
+}
+

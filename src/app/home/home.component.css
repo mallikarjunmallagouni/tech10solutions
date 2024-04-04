@@ -1,0 +1,29 @@
+.banner-image{
+    position: relative;
+}
+.banner-image img{
+    width: 100% !important;
+    display: flex !important;
+    /* height: 70vh !important; */
+    /* margin-top: 18px; */
+}
+.banner-image h4{
+    position: absolute;
+    right: 6vw;
+    bottom: 9vw;
+    color: #fff;
+    border-top: 0.2vw solid;
+    border-bottom: 0.2vw solid;
+    line-height: 5vw;
+    font-size: 2.2vw;
+}
+
+
+
+@media screen and (max-width:767px) and (min-width:250px){
+    .banner-image img{
+        width: 100% !important;
+        display: flex !important;
+        height: 70vw !important;
+    }
+}

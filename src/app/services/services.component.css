@@ -1,0 +1,50 @@
+.heading{
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+.get-start h2{
+    font-size: 1.8rem;
+}
+.heading p{
+    font-size: 18px;
+}
+.banner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card-main{
+    margin: 13px !important;
+}
+.card{
+    border: none;
+    box-shadow: 0px 1px 4px 1px #8080807d;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.image{
+    color: #26a3cc;
+}
+.image img{
+    margin-bottom: 15px;
+    width: 100%;
+    margin-bottom: 15px;
+    height: 17em;
+    border-radius: 6px 6px 0px 0px;
+}
+.discription{
+    text-align: center;
+    padding: 10px 14px 10px 14px;
+}
+.discription h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.discription p{
+    font-size: 15px;
+}
+h2{
+    font-size: 1.8rem;
+}
